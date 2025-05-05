@@ -27,3 +27,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+OUTPUT 
+How many edges? 4
+Enter edge (e.g. A B): A B
+Enter edge (e.g. A B): A C
+Enter edge (e.g. A B): B D
+Enter edge (e.g. A B): C E
+Start DFS from node: A
+DFS Traversal:
+A B D C E
+
