@@ -20,3 +20,14 @@ for _ in range(n):
 print("Initial Array:", arr)
 selection_sort(arr)
 print("Sorted Array:", arr)
+
+
+OUTPUT 
+
+Enter the number of elements in the array: 5  
+Enter the elements of the array:  
+64  
+25  
+12  
+22  
+11
