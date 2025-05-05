@@ -21,3 +21,11 @@ def prim_mst(graph, n):
 n = int(input("Enter number of vertices: "))
 graph = [list(map(int, input().split())) for _ in range(n)]
 prim_mst(graph, n)
+
+OUTPUT 
+Enter number of vertices: 5
+0 2 0 6 0
+2 0 3 8 5
+0 3 0 0 7
+6 8 0 0 9
+0 5 7 9 0
