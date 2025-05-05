@@ -32,3 +32,14 @@ if graphColoring(graph, m, colors, 0):
     print(colors)
 else:
     print("No solution found.")
+
+
+OUTPUT 
+Enter number of vertices: 4  
+Enter adjacency matrix:  
+0 1 1 1  
+1 0 1 0  
+1 1 0 1  
+1 0 1 0  
+Enter number of colors: 3
+
