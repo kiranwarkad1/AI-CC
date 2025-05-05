@@ -26,3 +26,13 @@ for job in jobs:
 
 print("Jobs are scheduled as: ", scheduled)
 print("Total Profit: ", total_profit)
+
+
+OUTPUT 
+Enter number of jobs: 5  
+Enter Id, deadline, and profit respectively for each job:  
+Job 1: A 2 100  
+Job 2: B 1 19  
+Job 3: C 2 27  
+Job 4: D 1 25  
+Job 5: E 3 15  
